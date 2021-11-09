@@ -6,6 +6,5 @@ public class Ex1 {
 		System.out.println("Hello");
 		System.out.println("Bye");
 		System.out.print("kame");
-		return 0;
 	}
 }
